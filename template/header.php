@@ -17,7 +17,7 @@
           <div class="row">
               <div class="col-md">
                   <header class="py-3">
-                      <h3 class="text-center">CRUD PHP con Bootstrap 5</h3>
+                      <a href="index.php" class="text-center">CRUD PHP con Bootstrap 5 </a>
                   </header>
               </div>
           </div>
